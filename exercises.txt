@@ -1,0 +1,42 @@
+// baslangic
+
+git clone -repolinki-
+
+//diger adim
+
+docker-compose up -d
+
+//diger adim
+
+docker-compose ps
+
+//diger adim
+
+docker-compose logs
+
+//diger adim
+
+
+docker-compose exec nginx /bin/sh
+
+mkdir -p /var/www/html
+
+docker-compose certbot log
+
+docker-compose logs certbot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
